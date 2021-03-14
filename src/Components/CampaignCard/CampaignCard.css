@@ -1,0 +1,29 @@
+.campaign-card {
+    width: 16rem;
+    height: 22rem;
+}
+
+.card-top {
+    background-color: #E3E1ED;
+    border: solid .5px #E3E1ED;
+}
+
+.campaigns-image {
+    height: 11rem;
+    width: 100%;
+    border: solid .5px #d2d2d2;
+}
+
+.truncate {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    -webkit-line-clamp: 2;
+ }
+
+.center-cropped {
+    background-position: center center;
+    background-repeat: no-repeat;
+}

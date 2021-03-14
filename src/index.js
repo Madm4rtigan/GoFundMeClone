@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import './assets/main.css';
+// import './fonts/Gotham-Black.otf';
+
+import AppProvider from './context-provider.js';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <AppProvider />
   </React.StrictMode>,
   document.getElementById('root')
 );

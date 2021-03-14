@@ -1,0 +1,59 @@
+.campaign-container {
+    width: 100%;
+    height: 90%;
+    background-color: #fff;
+    border: solid .5px #D2D2D2;
+    border-radius: 10px;
+}
+
+.details-panel {
+    background-color: #fff;
+    border: solid .5px #D2D2D2;
+    min-width: 50%;
+
+}
+
+.details-container {
+    border-right: solid 1px #D2D2D2;
+}
+
+.campaign-title {
+    font-family: 'Gotham';
+    max-width: 36rem;
+}
+.campaign-image {
+    height: 20rem;
+    max-width: 35rem;
+}
+
+.center-cropped {
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.filler {
+    background-color: #00b964;
+    border-radius: 50px;
+}
+
+.funding-bar {
+    background-color: #DFDFDF;
+    border-radius: 50px;
+}
+
+.rating-label {
+    font-family: 'Gotham';
+}
+
+.rating {
+    font-family: 'Gotham';
+    font-size: 5rem;
+}
+
+.description {
+    width: 80%;
+}
+
+.b-top {
+    border-top: solid 1px #D2D2D2;
+}

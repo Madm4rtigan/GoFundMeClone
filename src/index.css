@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Gotham';
+  src: local('Gotham'), url(./assets/fonts/Gotham-Black.otf) format('truetype');
+ 
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

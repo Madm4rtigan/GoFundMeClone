@@ -1,0 +1,48 @@
+.home-page {
+    background-color: #fff;
+}
+
+.background-image {
+    background-image: url('../../assets/images/home-background.jpg');
+    height: 40rem;
+    object-fit: fill;  
+    background-repeat: no-repeat;
+
+}
+
+.center-cropped {
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.top-row {
+}
+
+.center-panel {
+    width: 100%;
+    background-color: #fff;
+    border-bottom: solid .5px #D2D2D2;
+    height: 30rem;
+
+}
+
+.main-button {
+    color: #fff;
+    border: solid .5px #FF0000;
+    border-radius: 5px;
+    background-color:#FF5757;
+    padding-left: .5rem;
+    padding-right: .5rem;
+ 
+}
+
+
+.home-panel {
+    background-color: #fff;
+    height: 20rem;
+}
+
+.video {
+    height: 26rem;
+}
+

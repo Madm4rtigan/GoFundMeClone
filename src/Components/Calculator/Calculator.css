@@ -1,0 +1,53 @@
+.calc-container {
+    width: 100%;
+    height: 90%;
+    background-color: #E3E1ED;
+    border: solid .5px #D2D2D2;
+}
+
+.container-title {
+  font-family: 'Gotham';
+}
+
+.progress-bar {
+  position: relative;
+  height: 1rem;
+  width: 30rem;
+  border-radius: 50px;
+}
+
+.filler {
+  background: rgb(12, 230, 48);
+  height: 100%;
+  border-radius: inherit;
+  transition: width .2s ease-in;
+}
+
+.score-header {
+  font-family: 'Gotham';
+}
+.calc-score {
+  font-family: 'Gotham';
+  font-size: 8rem;
+}
+
+
+textarea {
+ border-radius: 5px;
+}
+
+textarea:focus {
+  outline: 0;
+}
+
+.reset-button {
+  width: 6rem;
+  height: 2rem;
+  background-color: #7B21FD;
+  border: solid .5px rgb(92, 12, 204);
+  color: #fff;
+}
+
+.second-calc {
+  color:  #7B21FD;
+}

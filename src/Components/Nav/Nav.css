@@ -1,0 +1,21 @@
+.nav-wrapper {
+    background-color: #7B21FD;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.divider {
+    color:  #fff;
+}
+
+.nav-link:hover {
+    color: #FF5757;
+}
+
+.login {
+    text-transform: capitalize;
+}
+
+.login:hover {
+    color: #FF5757;
+}

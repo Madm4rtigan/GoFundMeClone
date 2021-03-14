@@ -1,0 +1,40 @@
+.filter-container {
+    background-color: #E3E1ED;
+    height: auto;
+    border: solid .5px #E3E1ED;
+}
+
+.content-container {
+    height: auto;
+    height: auto;
+}
+
+.campaigns-header {
+    background-color: #E3E1ED;
+    height: auto;
+    border: solid .5px #E3E1ED;
+}
+
+.filter-pill {
+    color: #fff;
+    border: solid .5px #7B21FD;
+    border-radius: 5px;
+    background-color:#7B21FD;
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+.filter-pill:hover {
+    cursor: pointer;
+}
+
+.filter-item:hover {
+    color: #7B21FD;
+    cursor: pointer;
+}
+
+.bottom-stats {
+    position: 'absolute';
+    right: '5px';
+    bottom: '5px';
+}
